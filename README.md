@@ -3,7 +3,7 @@
 
 
 ![DuhMiamoto GitHub stats](https://github-readme-stats.vercel.app/api?username=DuhMiamoto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuhMiamoto)](https://github.com/DuhMiamoto/github-readme-stats)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuhMiamoto&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 <div>
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
