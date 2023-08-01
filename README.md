@@ -1,5 +1,5 @@
 ## Oieeee!!! Eu sou o Eduardo Yukio Miamoto
-<h3> Atualmente sou estudante no curso de engenharia eletrônica e de telecomunicações</h3>
+<h3> Atualmente sou estudante no curso de engenharia eletrônica e de telecomunicações e estou estudando a parte de dados</h3>
 
 
 ![DuhMiamoto GitHub stats](https://github-readme-stats.vercel.app/api?username=DuhMiamoto&show_icons=true&theme=tokyonight)
