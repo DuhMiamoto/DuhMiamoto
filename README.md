@@ -42,7 +42,8 @@
 <img aling="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img aling="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img aling="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+<img aling="center" height="50" width="100" src="apache_spark_logo_icon.svg"/>
+<img aling="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"/>
 
 
           
