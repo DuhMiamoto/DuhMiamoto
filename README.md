@@ -35,6 +35,7 @@
 <img aling="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img aling="center" height="50" width="100" src="apache_spark_logo_icon.svg"/>
 <img aling="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"/>
+<img aling="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"/>
 </div>
 
 
